@@ -2,11 +2,8 @@
 %% under the guidance of Dr. Pat Anderson and Dr. Hever Moncayo.
 
 %% Author: Robert F. Hartley
-%% Assistant Developers: Francois Hugon, Brian DeRosa, and Christopher Carvalho
+%% Assistant Developers: Francois Hugon, and Brian DeRosa
 %% Support: apm2.simulink@gmail.com
-
-%% Oct. 25, 2012
-%% Version 1.0
 
 
 ProjDir = pwd;
